@@ -24,7 +24,7 @@ A Streamlit-based web application for calculating and tracking academic grades w
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/grade-calculator.git
+git clone https://github.com/julian-carbajal/grade-calculator.git
 cd grade-calculator
 ```
 
